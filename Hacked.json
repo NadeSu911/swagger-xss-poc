@@ -1,0 +1,7 @@
+{
+    "url": "https://github.com/NadeSu911/swagger-xss-poc/blob/main/Swaggerxss.yaml",
+    "urls": [{
+        "url": "https://github.com/NadeSu911/swagger-xss-poc/blob/main/Swaggerxss.yaml",
+        "name": "Foo"
+    }]
+}
